@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Proyectos/C++/3. Estruc. condiconales/Ej para comprension/sentencia Switch",
-      "program": "c:/Proyectos/C++/3. Estruc. condiconales/Ej para comprension/sentencia Switch/build/Debug/outDebug",
+      "cwd": "c:/Proyectos/C++/3. Estruc. condiconales/Ej de practica",
+      "program": "c:/Proyectos/C++/3. Estruc. condiconales/Ej de practica/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
